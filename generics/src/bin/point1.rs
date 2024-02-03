@@ -1,5 +1,3 @@
-use num_traits::Num;
-
 struct Point<T> {
     x: T,
     y: T,
